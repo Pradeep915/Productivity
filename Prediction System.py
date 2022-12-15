@@ -2,7 +2,7 @@ import numpy as np
 import pickle
 
 # loading the saved model
-loaded_model1 = pickle.load(open('/Users/pradeepgouda/Predict/model.pkl', 'rb'))
+loaded_model1 = pickle.load(open('model.pkl', 'rb'))
 
 
 ## Building a Predictive System 
